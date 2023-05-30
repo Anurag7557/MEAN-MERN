@@ -1,0 +1,66 @@
+#main_content{
+    border: 2px solid black;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(113, 228, 159);
+}
+
+#img_content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.my_name{
+    font-size: larger;
+    font-weight: bold;
+}
+#name{
+    display: flex;
+}
+
+#overview_content{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 10px; 
+}
+
+#first_div{
+    text-align: justify;
+    border: 3px black solid;
+    border-radius: 10px;
+}
+
+#second_div{
+    text-align: justify;
+    border: 3px black solid;
+    border-radius: 10px;
+}
+
+#third_div{
+    text-align: justify;
+    border: 3px black solid;
+    border-radius: 10px;
+}
+#second_content{
+    border: 2px solid black;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(124, 219, 176);
+}
+
+.contact1{
+    margin: 20px;
+}
+    
+button{
+    background-color: rgb(18, 18, 18);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+    
+input{
+    padding: 10px;
+    width: 30%;
+}
