@@ -1,0 +1,31 @@
+const data = [{
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/1024px-Espaguetis_carbonara.jpg",
+    title: "Spaghetti",
+    about: " Roman pasta dish[1][2] made with eggs, hard cheese, cured pork, and black pepper. The dish took its modern form and name in the middle of the 20th century.",
+    rating: "⭐⭐⭐⭐",
+},
+{
+    image: "",
+    title: "",
+    about: "",
+    rating: "⭐⭐⭐⭐⭐",
+},
+{
+    image: "",
+    title: "",
+    about: "",
+    rating: "⭐⭐⭐⭐⭐",
+},
+{
+    image: "",
+    title: "",
+    about: "",
+    rating: "⭐⭐⭐⭐⭐",
+},
+{
+    image: "",
+    title: "",
+    about: "",
+    rating: "⭐⭐⭐⭐⭐",
+},
+];
